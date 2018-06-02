@@ -1,0 +1,14 @@
+#Bounce_In{
+	/*background-color:#00FF00;*/
+	width:100px;
+	text-align:center;
+	padding:20px;
+	margin:5px;
+	border:1px solid #aeaeae;
+	border-radius:5px;
+	transition-duration: 0.5s;}
+#Bounce_In:hover, .Bounce_In:focus, .Bounce_In:active {-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	-webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+	transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+	background-color:#28CADA;}
