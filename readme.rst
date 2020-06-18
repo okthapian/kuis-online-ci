@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Tentang Project
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
